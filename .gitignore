@@ -1,0 +1,7 @@
+out/
+*.class
+.DS_Store
+
+# Data files created when the program runs
+items.txt
+claims_log.txt
